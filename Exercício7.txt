@@ -1,0 +1,19 @@
+Exercício7
+
+1; What kind of attack did Ana suffer?
+
+r:Ana suffer an email attack.
+
+2;What signs could indicate that the email was fake?
+
+r:Because it had a bank logo on it and a link that takes it to a site   identical to the official website.
+
+3;What should Ana have done before and entering her data?
+
+r:she verify before clicking on the link.
+
+4;what should she do now?
+
+r: report the police and talk with offical bank .
+
+

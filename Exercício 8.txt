@@ -1,0 +1,17 @@
+Exercício 8
+
+
+1:phishing
+r-B
+
+2:Ransoware
+r-C
+
+3: trojan(cavalo de troia)
+r-A
+
+4:Engenharia social
+r-D
+
+5:Roubo de identidade
+r-E
